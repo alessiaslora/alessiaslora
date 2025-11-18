@@ -38,16 +38,3 @@ Every project is a chance to grow through logic and creativity.
 You can explore all my projects here:  
 👉 [View my Data Analysis Portfolio](*(Project links coming soon)*)
 
-
-### ⚙️ GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessiaslora&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessiaslora&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
