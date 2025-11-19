@@ -33,7 +33,5 @@ Every project is a chance to grow through logic and creativity.
   </a>
 </p>
 
----### 💼 Portfolio  
-You can explore all my projects here:  
-👉 [View my Data Analysis Portfolio](*(Project links coming soon)*)
+
 
