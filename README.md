@@ -1,4 +1,4 @@
-       (![analys](https://github.com/user-attachments/assets/d2d9ec26-dc4a-42df-8740-8afb3362f1e5)
+[My GitHub Portfolio](![analys](https://github.com/user-attachments/assets/d2d9ec26-dc4a-42df-8740-8afb3362f1e5)
 
 
 <h1 align="center"> Hey everyone, I'm Alessia</h1>
