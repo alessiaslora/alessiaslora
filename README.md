@@ -1,4 +1,4 @@
-<!-- Header -->
+[My GitHub Portfolio]("C:\Users\aless\Downloads\banner.jpeg")
 <h1 align="center">👋 Hey everyone, I'm Alessia</h1>
 <h3 align="center"> Junior Data Analyst | Passionate about data, technology, and stories behind numbers</h3>
 
