@@ -1,13 +1,10 @@
+![My GitHub Portfolio](![analys](https://github.com/user-attachments/assets/d2d9ec26-dc4a-42df-8740-8afb3362f1e5)
 
 
 <h1 align="center"> Hey everyone, I'm Alessia</h1>
 <h3 align="center"> Junior Data Analyst | Passionate about data, technology, and stories behind numbers</h3>
 
 ---
-
-![My GitHub Portfolio](![analys](https://github.com/user-attachments/assets/535a1a54-9aa1-42b0-9673-3fbb69ef662d)
-)
-
 
 ###  About Me  
 I’m **Alessia**, a curious and motivated Data Analyst building my path in data analysis and storytelling.  
