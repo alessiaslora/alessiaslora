@@ -1,4 +1,5 @@
-[My GitHub Portfolio]("C:\Users\aless\Downloads\banner.jpeg")
+![My GitHub Portfolio](![banner](https://github.com/user-attachments/assets/96b991d1-2ba2-4ef7-9d63-926460ebdf36)
+
 <h1 align="center">👋 Hey everyone, I'm Alessia</h1>
 <h3 align="center"> Junior Data Analyst | Passionate about data, technology, and stories behind numbers</h3>
 
