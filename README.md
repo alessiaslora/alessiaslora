@@ -22,7 +22,7 @@ Every project is a chance to grow through logic and creativity.
 
 ###  Skills  
 
-**SQL (PostgreSQL)** • **Python (pandas, numpy, matplotlib, seaborn, VADER)**  
+**SQL (PostgreSQL)** • **Python (pandas, matplotlib, seaborn, VADER)**  
 **Excel & Google Sheets** • **Data Cleaning & Exploration**  
 **Data Quality Checking**  
 **Visual Storytelling (Canva)** 
